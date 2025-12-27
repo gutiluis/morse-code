@@ -1,8 +1,10 @@
 ## How it works:
 
------
+- python3 filename.py
 
-## Features
+###
+
+## Features:
 
 -----
 

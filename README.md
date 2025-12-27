@@ -3,8 +3,6 @@
 -----
 
 ## Features
------
-
 
 -----
 
@@ -14,4 +12,10 @@
 
 -----
 
-Clone Repository:
+## What I Learned:
+
+----
+
+##
+
+Clone Repo:

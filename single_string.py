@@ -1,9 +1,13 @@
+#!/usr/bin/env python3
+
+# file: single_string.py
+# descr: return a single string with the word apple translated into morse code
+
 # class dictionary
 # class dicionary keys
 # class dictionary items
 # class dictionary values
 
-# return a single string with the word apple translated into morse code
 def morse_code(word):
     morse_dict = {
         "a": "dot-dash",

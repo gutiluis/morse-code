@@ -9,8 +9,9 @@
 ---
 
 ## How it works
+
 ```
-python3 filename.py
+python3 single_string.py
 ```
 
 ---
@@ -22,6 +23,17 @@ python3 filename.py
 ## Tech-Stack
 
 - Python
+
+---
+
+## Skills
+
+- Dictionaries
+- Lists
+- Functions
+- Keywords
+- For loops
+- if conditions
 
 ---
 
